@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+/* تعريف الألوان المخصصة والزوايا في v4 */
+@theme {
+  --color-brand-primary: #4f46e5;
+  --color-brand-dark: #18181b;
+  --color-brand-success: #10b981;
+  --color-brand-danger: #e11d48;
+  --color-brand-warning: #f59e0b;
+
+  --radius-3xl: 1.5rem;
+  --radius-4xl: 2rem;
+  --radius-5xl: 2.5rem;
+}
+
+/* 🌙 تفعيل الوضع الليلي اليدوي (بواسطة الكلاس) في الإصدار v4 */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* سلاسة التحول بين الوضعين */
+html {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* إذا أردت التأكد أن الخلفية تتغير تلقائياً في الوضع الليلي */
+.dark body {
+  background-color: var(--color-brand-dark);
+  color: white;
+}
