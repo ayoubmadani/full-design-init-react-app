@@ -1,0 +1,18 @@
+{
+    "manage_desc": "تتبع طلبات عملائك، غيّر حالات الشحن، وأصدر الفواتير والتقارير.",
+    "export": "تصدير الطلبات",
+    "all_orders": "إجمالي الطلبات",
+    "pending_filter": "قيد الانتظار",
+    "shipped_filter": "تم الشحن",
+    "completed_filter": "مكتملة",
+    "search_placeholder": "ابحث برقم الطلب أو اسم العميل...",
+    "id": "رقم الطلب",
+    "customer": "العميل",
+    "date": "التاريخ",
+    "total": "الإجمالي",
+    "status": "الحالة",
+    "status_pending": "قيد الانتظار",
+    "status_shipped": "جار الشحن",
+    "status_delivered": "تم التوصيل",
+    "status_cancelled": "ملغى"
+}

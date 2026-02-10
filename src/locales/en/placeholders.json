@@ -1,0 +1,11 @@
+{
+    "storeName": "e.g., Everlane Store",
+    "domain": "everlane-clone",
+    "phone": "0555123456",
+    "email": "store@example.com",
+    "address": "123 Freedom Street, Algiers",
+    "description": "Write a brief description of your store...",
+    "heroTitle": "e.g., Your Cozy Era",
+    "heroSubtitle": "Short offer description...",
+    "topBar": "e.g., Free shipping on orders over 5000 DZD"
+  }

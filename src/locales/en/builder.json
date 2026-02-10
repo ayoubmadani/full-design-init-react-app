@@ -1,0 +1,20 @@
+{
+  "branding": {
+    "title": "Branding & Design",
+    "subtitle": "Design a distinctive identity for your store"
+  },
+  "hero": {
+    "title": "Store Hero Section",
+    "subtitle": "Design the first impression your customers will see",
+    "defaultTitle": "Your Cozy Era",
+    "defaultSubtitle": "Get peak comfy-chic with new winter essentials.",
+    "defaultTopBar": "Free shipping on orders over 5000 DZD 🎉"
+  },
+  "business": {
+    "title": "Business Settings",
+    "subtitle": "Set up shipping and payment methods"
+  },
+  "currency": {
+    "dzd": "DZD"
+  }
+}

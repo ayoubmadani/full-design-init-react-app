@@ -1,0 +1,5 @@
+ {
+  "logoClick": "Click to upload logo",
+  "heroImage": "Upload hero image",
+  "maxSize": "Max size: {{size}}"
+}

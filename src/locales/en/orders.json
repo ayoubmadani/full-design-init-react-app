@@ -1,0 +1,18 @@
+{
+        "manage_desc": "Track your customer orders, change shipping statuses, and issue invoices and reports.",
+        "export": "Export Orders",
+        "all_orders": "Total Orders",
+        "pending_filter": "Pending",
+        "shipped_filter": "Shipped",
+        "completed_filter": "Completed",
+        "search_placeholder": "Search by order ID or customer name...",
+        "id": "Order ID",
+        "customer": "Customer",
+        "date": "Date",
+        "total": "Total",
+        "status": "Status",
+        "status_pending": "Pending",
+        "status_shipped": "Shipping",
+        "status_delivered": "Delivered",
+        "status_cancelled": "Cancelled"
+    }

@@ -1,0 +1,31 @@
+[
+    {
+  "id": "product-1770753377020",
+  "name": "xxx",
+  "price": 10,
+  "desc": "<p>ccc</p>",
+  "storeId": "",
+  "attributes": [
+    {
+      "id": "att-1770752914348",
+      "name": "Color",
+      "variants": [
+        {
+          "id": "var-1770753335657",
+          "name": "https://rukminim2.flixcart.com/image/480/480/jobsbrk0/speaker/mobile-tablet-speaker/d/a/e/b-logo-mini-music-spicker-320-original-imafasfzrqxg68bm.jpeg?q=90",
+          "value": "https://rukminim2.flixcart.com/image/480/480/jobsbrk0/speaker/mobile-tablet-speaker/d/a/e/b-logo-mini-music-spicker-320-original-imafasfzrqxg68bm.jpeg?q=90"
+        },
+        {
+          "id": "var-1770753339542",
+          "name": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-K7LlteJFRTDlL_vyqjNg_Adj_V3BY9tlA&s",
+          "value": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-K7LlteJFRTDlL_vyqjNg_Adj_V3BY9tlA&s"
+        }
+      ],
+      "displayMode": "image"
+    }
+  ],
+  "variantDetails": [],
+  "offers": []
+}
+
+]

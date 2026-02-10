@@ -1,0 +1,13 @@
+ {
+  "nameRequired": "Store name is required",
+  "nameLength": "Store name must be at least 2 characters",
+  "domainRequired": "Domain is required",
+  "domainFormat": "Domain must contain only lowercase letters, numbers, and hyphens",
+  "phoneInvalid": "Invalid phone number",
+  "emailInvalid": "Invalid email address",
+  "nicheRequired": "Please select a store niche",
+  "heroTitleRequired": "Hero title is required",
+  "fixErrors": "Please fix errors before continuing",
+  "logoSize": "Image size must be less than 2MB",
+  "heroSize": "Image size must be less than 5MB"
+}

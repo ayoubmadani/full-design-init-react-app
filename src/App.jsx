@@ -1,8 +1,8 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 
-// استيراد المكونات (نفس استيراداتك بدون تغيير)
+// استيراد المكونات
 import { Otp, Register, NewPassword, Login, ForgotPassword } from './pages/auth/imports';
 import LayoutAuth from './layouts/LayoutAuth';
 import LayoutSite from './layouts/LayoutSite';
@@ -21,16 +21,19 @@ import Settings from './pages/dashboard/settings/Settings';
 import Analytics from './pages/dashboard/analytics/Analytics';
 import LandingPages from './pages/dashboard/landing-pages/LandingPages';
 import Stores from './pages/dashboard/stores/Stores';
+import CreateStore from './pages/dashboard/stores/Create'; // <-- استيراد صفحة الإنشاء الجديدة
 import Shipping from './pages/dashboard/shipping/Shipping';
+import Update from './pages/dashboard/stores/update';
+import Show from './pages/dashboard/stores/Show';
+import CreateProduct from './pages/dashboard/products/Create';
 
 const App = () => {
   const { i18n } = useTranslation();
-  
+
   // 1. منطق إدارة الوضع الليلي
   const [theme, setTheme] = useState(localStorage.getItem('theme') || 'light');
 
   useEffect(() => {
-    // تحديث كلاس html للوضع الليلي
     const root = window.document.documentElement;
     if (theme === 'dark') {
       root.classList.add('dark');
@@ -41,7 +44,6 @@ const App = () => {
   }, [theme]);
 
   useEffect(() => {
-    // تحديث اتجاه الصفحة واللغة
     document.documentElement.dir = i18n.language === 'ar' ? 'rtl' : 'ltr';
     document.documentElement.lang = i18n.language;
   }, [i18n.language]);
@@ -62,9 +64,25 @@ const App = () => {
         {/* 2. قسم لوحة التحكم */}
         <Route path="/dashboard" element={<LayoutDashboard />}>
           <Route index element={<DashboardHome />} />
-          <Route path="stores" element={<Stores />} />
+
+          {/* مسارات المتاجر */}
+          <Route path="stores">
+            <Route index element={<Stores />} />
+            <Route path="create" element={<CreateStore />} /> {/* <-- المسار: /dashboard/stores/create */}
+            <Route path="update/:id" element={<Update />} /> {/* <-- المسار: /dashboard/stores/update/:id */}
+            <Route path="show/:id" element={<Show />} /> {/* <-- المسار: /dashboard/stores/show/:id */}
+          </Route>
+
           <Route path="category" element={<Categories />} />
-          <Route path="product" element={<Products />} />
+
+
+          <Route path="products">
+            <Route index element={<Products />} />
+            <Route path="create" element={<CreateProduct />} /> {/* <-- المسار: /dashboard/products/create */}
+
+          </Route>
+
+
           <Route path="landing-pages" element={<LandingPages />} />
           <Route path="orders" element={<Orders />} />
           <Route path="analytics" element={<Analytics />} />

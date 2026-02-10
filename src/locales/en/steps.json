@@ -1,0 +1,14 @@
+{
+    "basicInfo": {
+        "title": "Store Details",
+        "subtitle": "Provide your store name, address, and contact info"
+    },
+    "branding": {
+        "branding.title": "Branding",
+        "branding.subtitle": "Choose colors, logo, and theme for your store"
+    },
+    "hero": {
+        "title": "Hero Section",
+        "subtitle": "Add a main banner image and promotional text"
+    }
+}

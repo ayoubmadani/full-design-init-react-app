@@ -1,0 +1,16 @@
+{
+        "profile": "Profile",
+        "preferences": "Preferences",
+        "security": "Security",
+        "notifications": "Notifications",
+        "desc": "Manage your personal account, platform preferences, and password.",
+        "personal_info": "Personal Information",
+        "full_name": "Full Name",
+        "email": "Email Address",
+        "platform_pref": "Platform Preferences",
+        "currency": "Default Currency",
+        "language": "Dashboard Language",
+        "password_change": "Change Password",
+        "curr_pass": "Current Password",
+        "new_pass": "New Password"
+    }

@@ -1,0 +1,19 @@
+{
+    "storeName": "Store Name",
+    "domain": "Store URL (Subdomain)",
+    "location": "Business Location",
+    "phone": "Phone Number",
+    "email": "Email Address",
+    "address": "Address",
+    "description": "Store Description",
+    "logo": "Store Logo",
+    "primaryColor": "Primary Color",
+    "secondaryColor": "Secondary Color",
+    "niche": "Store Niche",
+    "heroTitle": "Hero Title",
+    "heroSubtitle": "Offer Description",
+    "topBar": "Top Announcement Bar",
+    "shippingFee": "Shipping Fee",
+    "freeShippingThreshold": "Free Shipping Threshold",
+    "paymentMethods": "Payment Methods"
+}

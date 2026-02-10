@@ -1,0 +1,15 @@
+{
+    "desc": "Analysez vos données de vente, le comportement des visiteurs et la performance des produits en détail.",
+    "visitors": "Total Visiteurs",
+    "sessions": "Sessions Actives",
+    "bounce_rate": "Taux de Rebond",
+    "avg_order": "Commande Moyenne",
+    "sales_overview": "Graphique des Ventes & profits",
+    "this_month": "Ce Mois",
+    "last_month": "Le Mois Dernier",
+    "chart_placeholder": "Les graphiques apparaîtront ici lorsque les données seront connectées",
+    "top_source": "Meilleures Sources de Trafic",
+    "source_desc": "Facebook est actuellement le principal moteur de vos ventes, continuez vos campagnes là-bas.",
+    "view_details": "Voir les Détails",
+    "best_sellers": "Produits les Mieux Vendus"
+}

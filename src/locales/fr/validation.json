@@ -1,0 +1,13 @@
+{
+    "nameRequired": "Le nom de la boutique est requis",
+    "nameLength": "Le nom de la boutique doit comporter au moins 2 caractères",
+    "domainRequired": "Le domaine est requis",
+    "domainFormat": "Le domaine ne doit contenir que des lettres minuscules, des chiffres et des traits d'union",
+    "phoneInvalid": "Numéro de téléphone invalide",
+    "emailInvalid": "Adresse e-mail invalide",
+    "nicheRequired": "Veuillez sélectionner une niche pour la boutique",
+    "heroTitleRequired": "Le titre Hero est requis",
+    "fixErrors": "Veuillez corriger les erreurs avant de continuer",
+    "logoSize": "La taille de l'image doit être inférieure à 2 Mo",
+    "heroSize": "La taille de l'image doit être inférieure à 5 Mo"
+}

@@ -119,6 +119,7 @@ const Settings = () => {
                     >
                       <option value="ar">العربية</option>
                       <option value="en">English</option>
+                      <option value="fr">française</option>
                     </select>
                   </div>
                 </div>
@@ -150,7 +151,7 @@ const Settings = () => {
 
           {/* 4. Notifications Tab */}
           {activeTab === 'notifications' && (
-            <div className="bg-white dark:bg-zinc-900 p-8 rounded-[2.5rem] border border-gray-100 dark:border-zinc-800 shadow-sm space-y-6 animate-in slide-in-from-top-4 duration-300">
+            <div className="bg-white dark:bg-zinc-900 p-8 rounded-5xl border border-gray-100 dark:border-zinc-800 shadow-sm space-y-6 animate-in slide-in-from-top-4 duration-300">
               <h3 className="text-lg font-black text-gray-900 dark:text-white border-b border-gray-50 dark:border-zinc-800 pb-4">{t('settings.notif_settings', 'إعدادات التنبيهات')}</h3>
               <div className="space-y-4">
                 {[

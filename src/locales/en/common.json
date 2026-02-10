@@ -1,0 +1,16 @@
+{
+    "or": "Or via",
+    "google_login": "Google",
+    "back": "Back",
+    "save_changes": "Save Changes",
+    "saved_success": "Changes saved successfully!",
+    "save_all": "Save All Changes",
+    "status": "Status",
+    "active": "Active",
+    "maintenance": "Maintenance",
+    "logout": "Logout",
+    "edit": "Edit",
+    "published": "Published",
+    "draft": "Draft",
+    "save_settings": "Save all settings"
+}

@@ -1,0 +1,11 @@
+{
+    "storeName": "مثال: متجر إيفرلين",
+    "domain": "everlane-clone",
+    "phone": "0555123456",
+    "email": "store@example.com",
+    "address": "123 شارع الحرية، الجزائر",
+    "description": "اكتب وصفاً مختصراً لمتجرك...",
+    "heroTitle": "مثال: هيمن على الأناقة",
+    "heroSubtitle": "وصف قصير للعرض...",
+    "topBar": "مثال: شحن مجاني للطلبات فوق 5000 د.ج"
+}

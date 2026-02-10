@@ -1,0 +1,20 @@
+{
+  "branding": {
+    "title": "Image de Marque & Design",
+    "subtitle": "Concevez une identité distinctive pour votre boutique"
+  },
+  "hero": {
+    "title": "Section Hero de la Boutique",
+    "subtitle": "Concevez la première impression que vos clients verront",
+    "defaultTitle": "Votre Ère Douillette",
+    "defaultSubtitle": "Atteignez le sommet du chic-confort avec les nouveaux essentiels d'hiver.",
+    "defaultTopBar": "Livraison gratuite pour les commandes de plus de 5000 DZD 🎉"
+  },
+  "business": {
+    "title": "Paramètres de l'Entreprise",
+    "subtitle": "Configurez les méthodes d'expédition et de paiement"
+  },
+  "currency": {
+    "dzd": "DZD"
+  }
+}

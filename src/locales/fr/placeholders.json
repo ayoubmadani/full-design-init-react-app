@@ -1,0 +1,11 @@
+{
+    "storeName": "ex: Boutique Everlane",
+    "domain": "everlane-clone",
+    "phone": "0555123456",
+    "email": "boutique@example.com",
+    "address": "123 Rue de la Liberté, Alger",
+    "description": "Écrivez une brève description de votre boutique...",
+    "heroTitle": "ex: Votre Ère Douillette",
+    "heroSubtitle": "Courte description de l'offre...",
+    "topBar": "ex: Livraison gratuite pour les commandes de plus de 5000 DZD"
+}

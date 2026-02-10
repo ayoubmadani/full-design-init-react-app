@@ -1,0 +1,18 @@
+{
+    "manage_desc": "Suivez les commandes de vos clients, changez les statuts d'expédition, et émettez des factures et des rapports.",
+    "export": "Exporter les Commandes",
+    "all_orders": "Total Commandes",
+    "pending_filter": "En Attente",
+    "shipped_filter": "Expédié",
+    "completed_filter": "Terminé",
+    "search_placeholder": "Recherche par ID de commande ou nom du client...",
+    "id": "ID de Commande",
+    "customer": "Client",
+    "date": "Date",
+    "total": "Total",
+    "status": "Statut",
+    "status_pending": "En Attente",
+    "status_shipped": "En cours d'expédition",
+    "status_delivered": "Livré",
+    "status_cancelled": "Annulé"
+}

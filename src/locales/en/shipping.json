@@ -1,0 +1,12 @@
+{
+        "title": "State Shipping Rates",
+        "subtitle": "Customize home and office delivery costs for each state across the country.",
+        "search": "Search for a state by name or number...",
+        "filter_region": "Filter by Region",
+        "state": "State",
+        "home": "Home",
+        "office": "Office",
+        "return": "Return",
+        "note": "Note: These prices are automatically displayed to customers when selecting the state on the checkout page.",
+        "bulk_edit": "Bulk Edit All States"
+    }

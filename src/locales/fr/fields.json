@@ -1,0 +1,19 @@
+{
+    "storeName": "Nom de la Boutique",
+    "domain": "URL de la Boutique (Sous-domaine)",
+    "location": "Emplacement de l'Entreprise",
+    "phone": "Numéro de Téléphone",
+    "email": "Adresse E-mail",
+    "address": "Adresse",
+    "description": "Description de la Boutique",
+    "logo": "Logo de la Boutique",
+    "primaryColor": "Couleur Primaire",
+    "secondaryColor": "Couleur Secondaire",
+    "niche": "Niche de la Boutique",
+    "heroTitle": "Titre Hero",
+    "heroSubtitle": "Description de l'Offre",
+    "topBar": "Barre d'Annonce Supérieure",
+    "shippingFee": "Frais d'Expédition",
+    "freeShippingThreshold": "Seuil de Livraison Gratuite",
+    "paymentMethods": "Méthodes de Paiement"
+}

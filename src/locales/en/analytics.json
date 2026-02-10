@@ -1,0 +1,15 @@
+{
+    "desc": "Analyze your sales data, visitor behavior, and product performance in detail.",
+    "visitors": "Total Visitors",
+    "sessions": "Active Sessions",
+    "bounce_rate": "Bounce Rate",
+    "avg_order": "Average Order",
+    "sales_overview": "Sales & Profit Chart",
+    "this_month": "This Month",
+    "last_month": "Last Month",
+    "chart_placeholder": "Charts will appear here when data is connected",
+    "top_source": "Top Traffic Source",
+    "source_desc": "Facebook is currently the main driver of your sales, continue your campaigns there.",
+    "view_details": "View Details",
+    "best_sellers": "Best Selling Products"
+}

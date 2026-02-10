@@ -1,0 +1,19 @@
+{
+    "storeName": "اسم المتجر",
+    "domain": "رابط المتجر (نطاق فرعي)",
+    "location": "موقع العمل",
+    "phone": "رقم الهاتف",
+    "email": "البريد الإلكتروني",
+    "address": "العنوان",
+    "description": "وصف المتجر",
+    "logo": "شعار المتجر",
+    "primaryColor": "اللون الأساسي",
+    "secondaryColor": "اللون الثانوي",
+    "niche": "مجال المتجر",
+    "heroTitle": "عنوان الواجهة",
+    "heroSubtitle": "وصف العرض",
+    "topBar": "شريط الإعلانات العلوي",
+    "shippingFee": "رسوم الشحن",
+    "freeShippingThreshold": "الحد الأدنى للشحن المجاني",
+    "paymentMethods": "طرق الدفع"
+}

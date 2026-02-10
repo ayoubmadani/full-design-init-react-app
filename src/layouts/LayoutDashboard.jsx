@@ -31,7 +31,7 @@ export default function LayoutDashboard() {
         { name: t('nav.home', 'الرئيسية'), href: '/dashboard', icon: Home },
         { name: t('dashboard.stores', 'المتاجر'), href: '/dashboard/stores', icon: Store },
         { name: t('dashboard.categories', 'التصنيفات'), href: '/dashboard/category', icon: Layers },
-        { name: t('dashboard.products', 'المنتجات'), href: '/dashboard/product', icon: Box },
+        { name: t('dashboard.products', 'المنتجات'), href: '/dashboard/products', icon: Box },
         { name: t('dashboard.landing', 'صفحة الهبوط'), href: '/dashboard/landing-pages', icon: Layout },
         { name: t('dashboard.orders', 'الطلبات'), href: '/dashboard/orders', icon: ShoppingCart },
         { name: t('dashboard.shipping', 'أسعار الشحن'), href: '/dashboard/shipping', icon: Truck },

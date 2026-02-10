@@ -6,8 +6,8 @@ import {
   Download, Target, MousePointer2 
 } from 'lucide-react';
 
-const Analytics = () => {
-  const { t, i18n } = useTranslation();
+    const Analytics = () => {
+    const { t, i18n } = useTranslation();
   const isRtl = i18n.language === 'ar';
 
   // بيانات افتراضية للرسوم البيانية البسيطة

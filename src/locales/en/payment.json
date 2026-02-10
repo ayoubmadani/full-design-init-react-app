@@ -1,0 +1,6 @@
+{
+    "cashOnDelivery": "Cash on Delivery",
+    "cashOnDeliveryDesc": "Customer pays when receiving product",
+    "onlinePayment": "Online Payment",
+    "onlinePaymentDesc": "Bank cards, CCP, BaridiMob"
+  }

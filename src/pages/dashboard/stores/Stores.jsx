@@ -5,6 +5,7 @@ import {
   ExternalLink, Settings, 
   CircleDot, Globe, LayoutGrid, X
 } from 'lucide-react';
+import { Link } from 'react-router-dom';
 
 const Stores = () => {
   const { t, i18n } = useTranslation();
@@ -59,10 +60,10 @@ const Stores = () => {
             {t('stores.desc', 'إدارة كافة متاجرك وفروعك من مكان واحد.')}
           </p>
         </div>
-        <button className="flex items-center justify-center gap-2 px-6 py-4 bg-zinc-900 dark:bg-amber-500 text-white dark:text-zinc-900 font-black rounded-2xl shadow-xl hover:opacity-90 transition-all active:scale-95 text-sm uppercase tracking-tight">
+        <Link to={'/dashboard/stores/create'} className="flex items-center justify-center gap-2 px-6 py-4 bg-zinc-900 dark:bg-amber-500 text-white dark:text-zinc-900 font-black rounded-2xl shadow-xl hover:opacity-90 transition-all active:scale-95 text-sm uppercase tracking-tight">
           <Plus size={20} />
           {t('stores.add_new', 'إنشاء متجر جديد')}
-        </button>
+        </Link>
       </div>
 
       {/* البحث */}

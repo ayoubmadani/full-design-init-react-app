@@ -1,0 +1,8 @@
+{
+    "manage_desc": "Organisez vos produits en groupes pour permettre aux clients de les trouver plus facilement via les menus.",
+    "add_new": "Ajouter une Nouvelle Catégorie",
+    "products_count": "Total Produits",
+    "quick_add": "Nouvelle Catégorie Rapide",
+    "name_label": "Nom de la Catégorie",
+    "slug_label": "Slug de la Catégorie"
+}

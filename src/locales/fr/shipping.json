@@ -1,0 +1,12 @@
+{
+    "title": "Tarifs d'Expédition par État",
+    "subtitle": "Personnalisez les coûts de livraison à domicile et au bureau pour chaque état à travers le pays.",
+    "search": "Rechercher un état par nom ou numéro...",
+    "filter_region": "Filtrer par Région",
+    "state": "État",
+    "home": "Domicile",
+    "office": "Bureau",
+    "return": "Retour",
+    "note": "Note : Ces prix sont automatiquement affichés aux clients lors de la sélection de l'état sur la page de paiement.",
+    "bulk_edit": "Modification Groupée de Tous les États"
+}

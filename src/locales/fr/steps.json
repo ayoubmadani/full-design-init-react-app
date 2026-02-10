@@ -1,0 +1,14 @@
+{
+    "basicInfo": {
+        "title": "Détails de la boutique",
+        "subtitle": "Fournissez le nom de votre boutique, l'adresse et les informations de contact"
+    },
+    "branding": {
+        "branding.title": "Branding",
+        "branding.subtitle": "Choisissez les couleurs, le logo et le thème de votre boutique"
+    },
+    "hero": {
+        "title": "Section Héros",
+        "subtitle": "Ajoutez une image principale et un texte promotionnel"
+    }
+}

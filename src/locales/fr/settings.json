@@ -1,0 +1,16 @@
+{
+    "profile": "Profil",
+    "preferences": "Préférences",
+    "security": "Sécurité",
+    "notifications": "Notifications",
+    "desc": "Gérez votre compte personnel, les préférences de la plateforme et le mot de passe.",
+    "personal_info": "Informations Personnelles",
+    "full_name": "Nom Complet",
+    "email": "Adresse E-mail",
+    "platform_pref": "Préférences de la Plateforme",
+    "currency": "Devise par Défaut",
+    "language": "Langue du Tableau de Bord",
+    "password_change": "Changer le Mot de Passe",
+    "curr_pass": "Mot de Passe Actuel",
+    "new_pass": "Nouveau Mot de Passe"
+}
