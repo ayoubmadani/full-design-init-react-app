@@ -80,7 +80,7 @@ const App = () => {
           <Route path="products">
             <Route index element={<Products />} />
             <Route path="create" element={<CreateProduct />} /> {/* <-- المسار: /dashboard/products/create */}
-            <Route path="fack-product" element={<FakeProductDetails />} /> {/* <-- المسار: /dashboard/products/create */}
+            <Route path="fake-product" element={<FakeProductDetails />} /> {/* <-- المسار: /dashboard/products/create */}
 
           </Route>
 
