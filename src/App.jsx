@@ -26,7 +26,7 @@ import Shipping from './pages/dashboard/shipping/Shipping';
 import Update from './pages/dashboard/stores/update';
 import Show from './pages/dashboard/stores/Show';
 import CreateProduct from './pages/dashboard/products/Create';
-import FakeProductDetails from './pages/dashboard/products/FakeProductDetails';
+import FakeProductDetails from './pages/site/FakeProductDetails';
 
 const App = () => {
   const { i18n } = useTranslation();
@@ -60,6 +60,8 @@ const App = () => {
           <Route path="privacy" element={<Privacy />} />
           <Route path="terms" element={<Terms />} />
           <Route path="cookies" element={<Cookies />} />
+          <Route path="fake-product" element={<FakeProductDetails />} />
+
         </Route>
 
         {/* 2. قسم لوحة التحكم */}
@@ -80,7 +82,6 @@ const App = () => {
           <Route path="products">
             <Route index element={<Products />} />
             <Route path="create" element={<CreateProduct />} /> {/* <-- المسار: /dashboard/products/create */}
-            <Route path="fake-product" element={<FakeProductDetails />} /> {/* <-- المسار: /dashboard/products/create */}
 
           </Route>
 
