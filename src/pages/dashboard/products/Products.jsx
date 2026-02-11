@@ -8,7 +8,7 @@ import {
 } from 'lucide-react';
 
 export default function Products() {
-  const { t, i18n } = useTranslation('translation', { keyPrefix: 'products' });
+  const { t, i18n } = useTranslation();
   const isRtl = i18n.language === 'ar';
   const [searchQuery, setSearchQuery] = useState('');
 

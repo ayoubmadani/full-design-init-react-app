@@ -1,31 +1,252 @@
 [
-    {
-  "id": "product-1770753377020",
-  "name": "xxx",
-  "price": 10,
-  "desc": "<p>ccc</p>",
-  "storeId": "",
-  "attributes": [
-    {
-      "id": "att-1770752914348",
-      "name": "Color",
-      "variants": [
-        {
-          "id": "var-1770753335657",
-          "name": "https://rukminim2.flixcart.com/image/480/480/jobsbrk0/speaker/mobile-tablet-speaker/d/a/e/b-logo-mini-music-spicker-320-original-imafasfzrqxg68bm.jpeg?q=90",
-          "value": "https://rukminim2.flixcart.com/image/480/480/jobsbrk0/speaker/mobile-tablet-speaker/d/a/e/b-logo-mini-music-spicker-320-original-imafasfzrqxg68bm.jpeg?q=90"
+  {
+    "id": "product-1770836312937",
+    "name": "cccc",
+    "price": 1200,
+    "desc": "<p>ccc</p>",
+    "storeId": "",
+    "attributes": [
+      {
+        "id": "att-1770836152864",
+        "type": "color",
+        "name": "Color",
+        "displayMode": "image",
+        "variants": [
+          {
+            "id": "var-1770836158252",
+            "name": "https://rukminim2.flixcart.com/image/300/300/jmthle80-1/speaker/mobile-tablet-speaker/7/c/v/voltegic-dc-5v-mini-s10-portable-wireless-bluetooth-speaker-for-original-imaexu9tfhtpzskh.jpeg",
+            "value": "https://rukminim2.flixcart.com/image/300/300/jmthle80-1/speaker/mobile-tablet-speaker/7/c/v/voltegic-dc-5v-mini-s10-portable-wireless-bluetooth-speaker-for-original-imaexu9tfhtpzskh.jpeg",
+            "imageId": 7
+          },
+          {
+            "id": "var-1770836162852",
+            "name": "https://spectrum-brand.com/cdn/shop/products/4-piece-geometric-foam-styling-prop-set-for-photography-calypso-blue-H0004-17.jpg?v=1701770866&width=1001",
+            "value": "https://spectrum-brand.com/cdn/shop/products/4-piece-geometric-foam-styling-prop-set-for-photography-calypso-blue-H0004-17.jpg?v=1701770866&width=1001",
+            "imageId": 5
+          }
+        ]
+      },
+      {
+        "id": "att-1770836171130",
+        "type": "size",
+        "name": "Size",
+        "variants": [
+          {
+            "id": "var-1770836171130-0",
+            "name": "S",
+            "value": "S"
+          },
+          {
+            "id": "var-1770836171130-1",
+            "name": "M",
+            "value": "M"
+          },
+          {
+            "id": "var-1770836171130-2",
+            "name": "L",
+            "value": "L"
+          },
+          {
+            "id": "var-1770836171130-3",
+            "name": "XL",
+            "value": "XL"
+          },
+          {
+            "id": "var-1770836171130-4",
+            "name": "XXL",
+            "value": "XXL"
+          }
+        ]
+      }
+    ],
+    "variantDetails": [
+      {
+        "id": "vd-1770836191806-0",
+        "name": {
+          "Color": "https://rukminim2.flixcart.com/image/300/300/jmthle80-1/speaker/mobile-tablet-speaker/7/c/v/voltegic-dc-5v-mini-s10-portable-wireless-bluetooth-speaker-for-original-imaexu9tfhtpzskh.jpeg",
+          "Size": "S"
         },
-        {
-          "id": "var-1770753339542",
-          "name": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-K7LlteJFRTDlL_vyqjNg_Adj_V3BY9tlA&s",
-          "value": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-K7LlteJFRTDlL_vyqjNg_Adj_V3BY9tlA&s"
-        }
-      ],
-      "displayMode": "image"
-    }
-  ],
-  "variantDetails": [],
-  "offers": []
-}
-
+        "price": "1200",
+        "stock": "12"
+      },
+      {
+        "id": "vd-1770836191806-1",
+        "name": {
+          "Color": "https://rukminim2.flixcart.com/image/300/300/jmthle80-1/speaker/mobile-tablet-speaker/7/c/v/voltegic-dc-5v-mini-s10-portable-wireless-bluetooth-speaker-for-original-imaexu9tfhtpzskh.jpeg",
+          "Size": "M"
+        },
+        "price": "1200",
+        "stock": "12"
+      },
+      {
+        "id": "vd-1770836191806-2",
+        "name": {
+          "Color": "https://rukminim2.flixcart.com/image/300/300/jmthle80-1/speaker/mobile-tablet-speaker/7/c/v/voltegic-dc-5v-mini-s10-portable-wireless-bluetooth-speaker-for-original-imaexu9tfhtpzskh.jpeg",
+          "Size": "L"
+        },
+        "price": "1200",
+        "stock": "12"
+      },
+      {
+        "id": "vd-1770836191806-3",
+        "name": {
+          "Color": "https://rukminim2.flixcart.com/image/300/300/jmthle80-1/speaker/mobile-tablet-speaker/7/c/v/voltegic-dc-5v-mini-s10-portable-wireless-bluetooth-speaker-for-original-imaexu9tfhtpzskh.jpeg",
+          "Size": "XL"
+        },
+        "price": "1200",
+        "stock": "12"
+      },
+      {
+        "id": "vd-1770836191806-4",
+        "name": {
+          "Color": "https://rukminim2.flixcart.com/image/300/300/jmthle80-1/speaker/mobile-tablet-speaker/7/c/v/voltegic-dc-5v-mini-s10-portable-wireless-bluetooth-speaker-for-original-imaexu9tfhtpzskh.jpeg",
+          "Size": "XXL"
+        },
+        "price": "1200",
+        "stock": "12"
+      },
+      {
+        "id": "vd-1770836191807-5",
+        "name": {
+          "Color": "https://spectrum-brand.com/cdn/shop/products/4-piece-geometric-foam-styling-prop-set-for-photography-calypso-blue-H0004-17.jpg?v=1701770866&width=1001",
+          "Size": "S"
+        },
+        "price": "1200",
+        "stock": "12"
+      },
+      {
+        "id": "vd-1770836191807-6",
+        "name": {
+          "Color": "https://spectrum-brand.com/cdn/shop/products/4-piece-geometric-foam-styling-prop-set-for-photography-calypso-blue-H0004-17.jpg?v=1701770866&width=1001",
+          "Size": "M"
+        },
+        "price": "1200",
+        "stock": "12"
+      },
+      {
+        "id": "vd-1770836191807-7",
+        "name": {
+          "Color": "https://spectrum-brand.com/cdn/shop/products/4-piece-geometric-foam-styling-prop-set-for-photography-calypso-blue-H0004-17.jpg?v=1701770866&width=1001",
+          "Size": "L"
+        },
+        "price": "1200",
+        "stock": "12"
+      },
+      {
+        "id": "vd-1770836191807-8",
+        "name": {
+          "Color": "https://spectrum-brand.com/cdn/shop/products/4-piece-geometric-foam-styling-prop-set-for-photography-calypso-blue-H0004-17.jpg?v=1701770866&width=1001",
+          "Size": "XL"
+        },
+        "price": "1200",
+        "stock": "12"
+      },
+      {
+        "id": "vd-1770836191807-9",
+        "name": {
+          "Color": "https://spectrum-brand.com/cdn/shop/products/4-piece-geometric-foam-styling-prop-set-for-photography-calypso-blue-H0004-17.jpg?v=1701770866&width=1001",
+          "Size": "XXL"
+        },
+        "price": "1200",
+        "stock": "12"
+      }
+    ],
+    "offers": [
+      {
+        "id": "off-1770836257182",
+        "name": "one",
+        "quantity": "1",
+        "price": "1200"
+      },
+      {
+        "id": "off-1770836268615",
+        "name": "tow",
+        "quantity": "2",
+        "price": "2100"
+      },
+      {
+        "id": "off-1770836283324",
+        "name": "three",
+        "quantity": "3",
+        "price": "2999"
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1QT2Jmeq2ob9EmiGsY3c0LxWc2HwQwCW4cQ&s"
+    ]
+  },
+  {
+    "id": "product-1770839917372",
+    "name": "Emo Noir: جوهر الغموض والتمرد 🖤💀",
+    "price": 81,
+    "desc": "<p><strong>طرٌ لا يهمس، بل يترك أثراً لا يُنسى.</strong></p><p><strong>مستوحى من الروح الحرة والعمق العاطفي، يأتي عطر Emo في زجاجة أيقونية على شكل جمجمة كريستالية تعكس القوة والجرأة. صُمم هذا العطر للرجل الذي يجرؤ على أن يكون مختلفاً، حيث يمزج بين النوتات الخشبية العميقة ولمسات من البخور الغامض ليخلق هالة من الفخامة المظلمة.</strong></p><ul><li><p><strong>الطابع العطري: شرقي - خشبي - فواح.</strong></p></li><li><p><strong>الثبات: قوة ثبات استثنائية تدوم طويلاً، تناسب الأجواء الباردة والمناسبات المسائية.</strong></p></li><li><p><strong>التصميم: زجاجة فنية تعبر عن الشخصية الفريدة، محاطة بهالة من الدخان والبرق لتجسد القوة الطبيعية.</strong></p></li></ul><p><strong>الخيار الأمثل لمن يبحث عن عطر يعبر عن كاريزما طاغية وحضور غامض.</strong></p>",
+    "storeId": "",
+    "attributes": [
+      {
+        "id": "att-1770839701911",
+        "type": "text",
+        "name": "volume",
+        "variants": [
+          {
+            "id": "var-1770839712769",
+            "name": "big",
+            "value": "big"
+          },
+          {
+            "id": "var-1770839735793",
+            "name": "smal",
+            "value": "smal"
+          }
+        ]
+      }
+    ],
+    "variantDetails": [
+      {
+        "id": "vd-1770839749575-0",
+        "name": {
+          "volume": "big"
+        },
+        "price": "1500",
+        "stock": "150"
+      },
+      {
+        "id": "vd-1770839749575-1",
+        "name": {
+          "volume": "smal"
+        },
+        "price": "1000",
+        "stock": "150"
+      }
+    ],
+    "offers": [
+      {
+        "id": "off-1770839810169",
+        "name": "one small",
+        "quantity": "1",
+        "price": "1000"
+      },
+      {
+        "id": "off-1770839811541",
+        "name": "tow small",
+        "quantity": "2",
+        "price": "1898"
+      },
+      {
+        "id": "off-1770839813211",
+        "name": "one big",
+        "quantity": "1",
+        "price": "1500"
+      },
+      {
+        "id": "off-1770839815568",
+        "name": "tow big",
+        "quantity": "2",
+        "price": "2701"
+      }
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/51R1ZvqV24L._AC_UF350,350_QL50_.jpg",
+      "https://rukminim2.flixcart.com/image/300/300/jmthle80-1/speaker/mobile-tablet-speaker/7/c/v/voltegic-dc-5v-mini-s10-portable-wireless-bluetooth-speaker-for-original-imaexu9tfhtpzskh.jpeg"
+    ]
+  }
 ]

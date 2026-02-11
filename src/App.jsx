@@ -26,6 +26,7 @@ import Shipping from './pages/dashboard/shipping/Shipping';
 import Update from './pages/dashboard/stores/update';
 import Show from './pages/dashboard/stores/Show';
 import CreateProduct from './pages/dashboard/products/Create';
+import FakeProductDetails from './pages/dashboard/products/FakeProductDetails';
 
 const App = () => {
   const { i18n } = useTranslation();
@@ -79,6 +80,7 @@ const App = () => {
           <Route path="products">
             <Route index element={<Products />} />
             <Route path="create" element={<CreateProduct />} /> {/* <-- المسار: /dashboard/products/create */}
+            <Route path="fack-product" element={<FakeProductDetails />} /> {/* <-- المسار: /dashboard/products/create */}
 
           </Route>
 
